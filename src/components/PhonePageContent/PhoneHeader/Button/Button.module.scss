@@ -1,0 +1,22 @@
+.button {
+  display: flex;
+  flex-direction: column;
+  justify-content: space-around;
+
+  width: 52px;
+  height: 40px;
+
+  padding: 10px;
+}
+
+.line {
+  background-color: #fff;
+  height: 3px;
+}
+
+.line:nth-child(2) {
+  opacity: 0;
+  visibility: hidden;
+  height: 0;
+  display: none;
+}
