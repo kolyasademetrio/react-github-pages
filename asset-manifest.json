@@ -1,23 +1,23 @@
 {
   "files": {
     "main.css": "/react-github-pages/static/css/main.8405484d.chunk.css",
-    "main.js": "/react-github-pages/static/js/main.551982ee.chunk.js",
-    "main.js.map": "/react-github-pages/static/js/main.551982ee.chunk.js.map",
+    "main.js": "/react-github-pages/static/js/main.74bdb29d.chunk.js",
+    "main.js.map": "/react-github-pages/static/js/main.74bdb29d.chunk.js.map",
     "runtime-main.js": "/react-github-pages/static/js/runtime-main.45ac11cf.js",
     "runtime-main.js.map": "/react-github-pages/static/js/runtime-main.45ac11cf.js.map",
-    "static/js/2.f439762a.chunk.js": "/react-github-pages/static/js/2.f439762a.chunk.js",
-    "static/js/2.f439762a.chunk.js.map": "/react-github-pages/static/js/2.f439762a.chunk.js.map",
+    "static/js/2.ba13c4a7.chunk.js": "/react-github-pages/static/js/2.ba13c4a7.chunk.js",
+    "static/js/2.ba13c4a7.chunk.js.map": "/react-github-pages/static/js/2.ba13c4a7.chunk.js.map",
     "index.html": "/react-github-pages/index.html",
-    "precache-manifest.41b4895888e4ff25a63ab5900dc3979c.js": "/react-github-pages/precache-manifest.41b4895888e4ff25a63ab5900dc3979c.js",
+    "precache-manifest.fe815e189682bbf7add0a4e7d333041b.js": "/react-github-pages/precache-manifest.fe815e189682bbf7add0a4e7d333041b.js",
     "service-worker.js": "/react-github-pages/service-worker.js",
     "static/css/main.8405484d.chunk.css.map": "/react-github-pages/static/css/main.8405484d.chunk.css.map",
-    "static/js/2.f439762a.chunk.js.LICENSE.txt": "/react-github-pages/static/js/2.f439762a.chunk.js.LICENSE.txt",
+    "static/js/2.ba13c4a7.chunk.js.LICENSE.txt": "/react-github-pages/static/js/2.ba13c4a7.chunk.js.LICENSE.txt",
     "static/media/PhonePage.module.scss": "/react-github-pages/static/media/phone.d2314b49.png"
   },
   "entrypoints": [
     "static/js/runtime-main.45ac11cf.js",
-    "static/js/2.f439762a.chunk.js",
+    "static/js/2.ba13c4a7.chunk.js",
     "static/css/main.8405484d.chunk.css",
-    "static/js/main.551982ee.chunk.js"
+    "static/js/main.74bdb29d.chunk.js"
   ]
 }
